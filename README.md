@@ -1,2 +1,2 @@
 # Yellampati_Karthik_Datamining_midterm_project
-CS-645 Midterm Project
+CS-634(101) Midterm Project
